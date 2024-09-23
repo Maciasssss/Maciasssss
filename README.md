@@ -8,6 +8,7 @@ I'm a backend developer with experience in various technologies and languages. H
 - 🌐 Flutter: Developed a shoe-shop project showcasing my skills in mobile app development.
 - 💻 C#: Created booking applications demonstrating my expertise in this powerful language.
 - ☕ JavaScript and TypeScript: Built dynamic and responsive web applications. Simple, but it's good to try everything.
+- 📫 PHP: Wordpress plugin for automatic content generation, allowing user to set up a plan for posting content on their website
 ## 🚀 My Passion
 I’m passionate about programming and continuously improving my skills. I believe in lifelong learning and strive to enhance my knowledge and capabilities every day.
 
