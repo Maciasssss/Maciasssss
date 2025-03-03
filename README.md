@@ -1,6 +1,12 @@
 # Hi there, I'm Maciej! 👋
 ## 🎓 Education
-I’m currently studying Software Engineering at Uniwersytet Bielsko-Bialski.
+I'm a passionate Software Engineer currently pursuing my Master's degree at Uniwersytet Bielsko-Bialski.
+I have successfully completed my Engineering studies and earned the title of Engineer.
+Now, I'm continuing my academic journey at the same university, deepening my knowledge and expertise in software development.
+
+🚀 Tech Enthusiast | Problem Solver | Lifelong Learner
+
+Feel free to connect with me!
 
 ## 💻 About Me
 I'm a backend developer with experience in various technologies and languages. Here are some highlights:
@@ -9,6 +15,7 @@ I'm a backend developer with experience in various technologies and languages. H
 - 💻 C#: Created booking applications demonstrating my expertise in this powerful language.
 - ☕ JavaScript and TypeScript: Built dynamic and responsive web applications. Simple, but it's good to try everything.
 - 📫 PHP: Wordpress plugin for automatic content generation, allowing user to set up a plan for posting content on their website
+- 🐍 Python: Developed a packet sniffing and network monitoring application as part of my engineering thesis.
 ## 🚀 My Passion
 I’m passionate about programming and continuously improving my skills. I believe in lifelong learning and strive to enhance my knowledge and capabilities every day.
 
