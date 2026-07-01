@@ -107,11 +107,4 @@ WordPress plugin integrating ChatGPT API for automated SEO content generation an
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Maciasssss&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Maciasssss&theme=dark&hide_border=false&layout=compact)
-
----
-
 *Open to opportunities in Blue Team / SOC / Security Engineering / Backend Development*
