@@ -2,8 +2,7 @@
 
 **Software Engineer & IT Security Enthusiast**  
 📍 Bielsko-Biała, Poland · Remote preferred · Open to relocation  
-📫 maciek_k112@wp.pl · [LinkedIn](www.linkedin.com/in/maciej-kos-67503626a) · [GitHub](https://github.com/Maciasssss)
-
+📫 maciek_k112@wp.pl · www.linkedin.com/in/maciej-kos-67503626a
 ---
 
 ## 🎓 About Me
